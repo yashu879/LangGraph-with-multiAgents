@@ -7,3 +7,4 @@ In this example I have added 2 Agents,  based on question Router will pass the q
   2. Wikipedia
 
     
+![alt text](https://github.com/yashu879/LangGraph-with-multiAgents/blob/main/MultiAgents.png)
